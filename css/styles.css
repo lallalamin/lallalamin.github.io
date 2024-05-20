@@ -606,6 +606,10 @@ progress {
   content: "— ";
 }
 
+.img-w{
+  width: 300px;
+}
+
 .img-fluid {
   width: 60%;
   float: right;
